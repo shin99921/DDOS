@@ -1,0 +1,2 @@
+python slowloris.py --host 아이피 --port 포트 --max-socket 숫자
+의 형식으로 작성하면 된다.

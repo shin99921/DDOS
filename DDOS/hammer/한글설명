@@ -1,0 +1,3 @@
+python 으로 hammer를 실행하면 도움말이 보인다. https://www.youtube.com/watch?v=HVbRUhX2EPo 유튜브도 참조하자.
+
+python3 hammer.py -s 아이피 -t 155(?)
